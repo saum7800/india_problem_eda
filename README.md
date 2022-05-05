@@ -2,6 +2,8 @@
 
 This project was done to identify the problems about India being talked about in social media. To this end, I have created a dataset of about 2000 posts discussing issues in India. When I say issues, I mean social problems. After collecting this dataset and performing pre-processing steps for clean up, I do an extensive exploratory data analysis of both numerical/categorical as well as textual features of the dataset. Finally, I train two baseline models for predicting a topic given the post text.
 
+In case you want to play with the datasets or the models in the project, here is the [link](https://drive.google.com/drive/folders/1IJw0G_pGqixNzbG2_2_Ys0KFW9SkgYz2?usp=sharing)!
+
 The project is divided into four parts:
 1. Data Collection
 2. Data Preprocessing
